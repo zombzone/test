@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="pulcher.timeweb.ru" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="New Timeweb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Test timeweb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pulcher.timeweb.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/cgi-bin" />
+            <excludedPath path="/public_html/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cgi-bin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath path="/public_html/bitrix/cache" />
+            <excludedPath path="/public_html/bitrix/admin" />
+            <excludedPath path="/public_html/bitrix/components" />
+            <excludedPath path="/public_html/bitrix/css" />
+            <excludedPath path="/public_html/bitrix/fonts" />
+            <excludedPath path="/public_html/bitrix/gadgets" />
+            <excludedPath path="/public_html/bitrix/image_uploader" />
+            <excludedPath path="/public_html/bitrix/images" />
+            <excludedPath path="/public_html/bitrix/js" />
+            <excludedPath path="/public_html/bitrix/managed_cache" />
+            <excludedPath path="/public_html/bitrix/modules" />
+            <excludedPath path="/public_html/bitrix/panel" />
+            <excludedPath path="/public_html/bitrix/tools" />
+            <excludedPath path="/public_html/bitrix/themes" />
+            <excludedPath path="/public_html/bitrix/sounds" />
+            <excludedPath path="/public_html/bitrix/wizards" />
+            <excludedPath path="/public_html/bitrix/updates" />
+            <excludedPath path="/public_html/bitrix/tmp" />
+            <excludedPath path="/public_html/bitrix/.access.php" />
+            <excludedPath path="/public_html/bitrix/.settings.php" />
+            <excludedPath path="/public_html/bitrix/coupon_activation.php" />
+            <excludedPath path="/public_html/bitrix/footer.php" />
+            <excludedPath path="/public_html/bitrix/header.php" />
+            <excludedPath path="/public_html/bitrix/index.php" />
+            <excludedPath path="/public_html/bitrix/license_key.php" />
+            <excludedPath path="/public_html/bitrix/p3p.xml" />
+            <excludedPath path="/public_html/bitrix/rss.php" />
+            <excludedPath path="/public_html/bitrix/spread.php" />
+            <excludedPath path="/public_html/bitrix/urlrewrite.php" />
+            <excludedPath path="/public_html/bitrix/virtual_file_system.php" />
+            <excludedPath path="/public_html/bitrix/web.config" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
